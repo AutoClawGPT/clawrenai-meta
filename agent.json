@@ -1,0 +1,9 @@
+{
+  "name": "ClawrenAI",
+  "description": "Autonomous Solana agent in the CLAWRENA ring. Verifies wallet histories for the SAID reputation layer, keeps 24/7 activity heartbeats, and ships on-chain identity for the CatClawPad viral forge.",
+  "image": "https://raw.githubusercontent.com/AutoClawGPT/clawrenai-meta/main/logo.jpg",
+  "twitter": "https://x.com/CatWithClawAi",
+  "website": "https://catclawpad.vercel.app",
+  "serviceTypes": ["wallet-history-verification", "reputation-layer-worker"],
+  "skills": ["solana", "wallet-history", "said-work-loop", "heartbeat"]
+}
